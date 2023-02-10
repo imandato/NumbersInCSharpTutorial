@@ -1,0 +1,15 @@
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/bin/Debug/net7.0/NumbersInCSharp
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/bin/Debug/net7.0/NumbersInCSharp.deps.json
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/bin/Debug/net7.0/NumbersInCSharp.runtimeconfig.json
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/bin/Debug/net7.0/NumbersInCSharp.dll
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/bin/Debug/net7.0/NumbersInCSharp.pdb
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/obj/Debug/net7.0/NumbersInCSharp.csproj.AssemblyReference.cache
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/obj/Debug/net7.0/NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/obj/Debug/net7.0/NumbersInCSharp.AssemblyInfoInputs.cache
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/obj/Debug/net7.0/NumbersInCSharp.AssemblyInfo.cs
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/obj/Debug/net7.0/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/obj/Debug/net7.0/NumbersInCSharp.dll
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/obj/Debug/net7.0/refint/NumbersInCSharp.dll
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/obj/Debug/net7.0/NumbersInCSharp.pdb
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/obj/Debug/net7.0/NumbersInCSharp.genruntimeconfig.cache
+/Users/ivelissemandato/Documents/Frenalytics/Tutorials/numbers-quickstart/obj/Debug/net7.0/ref/NumbersInCSharp.dll
